@@ -1,4 +1,4 @@
-# Udacity Project: Data Lake
+# Project: Data Lake
 
 ## Introduction
 A music streaming startup, Sparkify, has grown their user base 
